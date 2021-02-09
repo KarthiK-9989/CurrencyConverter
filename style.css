@@ -1,0 +1,20 @@
+div {
+    margin-top: 100px;
+    margin-left: 400px;
+    padding: 2px;
+    background-color: aqua;
+    height: 200px;
+    width: 500px;
+    border: 10px solid black;
+}
+
+table,
+td,
+tr {
+    margin: 30px;
+}
+
+h2 {
+    background-color: burlywood;
+    display: inline;
+}
